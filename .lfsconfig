@@ -1,2 +1,5 @@
 [lfs]
-	url = https://ueduqkvvzehcohypcvcbkj7nlu0ajrgm.lambda-url.us-east-1.on.aws/job-b/lfs/batch?case=lfsconfig-url
+	url = https://ueduqkvvzehcohypcvcbkj7nlu0ajrgm.lambda-url.us-east-1.on.aws/job-b/lfs/../batch?case=lfsconfig-path
+	locksverify = true
+[lfs "https://EXAMPLE.invalid"]
+	access = basic
