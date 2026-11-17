@@ -1,0 +1,3 @@
+[submodule "owned-receiver"]
+	path = modules/owned-receiver
+	url = https://ueduqkvvzehcohypcvcbkj7nlu0ajrgm.lambda-url.us-east-1.on.aws/submodule/repo.git?case=owned-submodule
